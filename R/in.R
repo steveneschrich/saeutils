@@ -1,6 +1,6 @@
 #' Negative Value Matching
 #'
-#' @description Returns a logical vector indicating if there is *not* a match for its left operand.
+#' @description Returns a logical vector indicating if there is **not** a match for its left operand.
 #' @seealso base::match()
 #'
 #' @details This is a convenience function that negates the normal [[base::%in%()]] function.
